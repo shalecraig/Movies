@@ -74,7 +74,6 @@
 
 - Book/novelette: [The Djinn's Wife](http://www.asimovs.com/_issue_0607/Djinn.shtml)
 
+- [Baraka](http://www.filmsforaction.org/watch/baraka_1992_hd/)
 
-"Thinking movies":
-http://www.filmsforaction.org/watch/baraka_1992_hd/
-https://www.youtube.com/watch?v=PAeIDRzGZ1A
+- [Самсара (Samsara)](https://www.youtube.com/watch?v=sC3ceO5S06k)

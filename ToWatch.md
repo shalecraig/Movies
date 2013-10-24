@@ -1,7 +1,6 @@
-These are movies I want to watch:
+# These are movies I want to watch:#
 
-============================
-* Watched *
+## Watched ##
 
 - A Beautiful Mind
 
@@ -30,6 +29,8 @@ These are movies I want to watch:
 - Lincoln lawyer
 
 ============================
+
+## To Watch ##
 
 - [Mystic River](http://www.imdb.com/title/tt0327056/?ref_=fn_al_tt_1) (recommended by Chhavi)
 
